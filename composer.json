@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/git_library",
+    "description": "biblioteka",
+    "type": "project",
+    "license": "\"MIT\"",
+    "authors": [
+        {
+            "name": "VakarisN",
+            "email": "vakarisneverauskas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
